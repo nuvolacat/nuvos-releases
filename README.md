@@ -42,7 +42,7 @@ Todo está en **[Releases](https://github.com/nuvolacat/nuvos-releases/releases/
 | 💿 | **PC o NAS x86-64** | `nuvos_<versión>.raw.xz` | Grábala en una memoria USB con [balenaEtcher](https://etcher.balena.io) o [Raspberry Pi Imager](https://www.raspberrypi.com/software/) y arranca desde ella. |
 | 🗄️ | **UniFi UNAS** | — | Desde el navegador, en **[nuvos.link/unifi](https://nuvos.link/unifi/)**, viendo cada orden que se ejecuta. |
 | 🔐 | **Synology (NuvOS Vault)** | `NuvOSVault.spk` | Centro de paquetes › Instalación manual. Guarda las copias de Ultra Backup sin SSH ni SFTP. |
-| 📱 | **App eXploratore** | — | iOS y Android. *Próximamente.* |
+| 📱 | **App eXploratore** | — | Tus archivos del NAS en el móvil. **[Android en Google Play](https://play.google.com/store/apps/details?id=cat.nuvola.exploratore)** · iPhone *próximamente*. |
 
 > [!TIP]
 > Comprueba la descarga antes de grabarla:
